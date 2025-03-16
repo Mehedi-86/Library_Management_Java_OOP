@@ -1,0 +1,242 @@
+1. Sign Up
+2. Login
+3. Exit
+1
+Enter Name: mehedi
+Enter Roll Number: 2107086
+Enter Password: 123
+Signup successful!
+1. Sign Up
+2. Login
+3. Exit
+1
+Enter Name: mehedi
+Enter Roll Number: 2107086
+Enter Password: 123
+Student with this roll number already exists.
+1. Sign Up
+2. Login
+3. Exit
+2
+Enter Roll Number: 2107086
+Enter Password: 124
+Invalid Roll Number or Password!
+1. Sign Up
+2. Login
+3. Exit
+2
+Enter Roll Number: 2107086
+Enter Password: 123
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+4
+Java Programming by Herbert Schildt
+Effective Java by Joshua Bloch
+Clean Code by Robert C. Martin
+Head First Java by Kathy Sierra
+The Pragmatic Programmer by Andrew Hunt
+Design Patterns by Erich Gamma
+Refactoring by Martin Fowler
+Introduction to Algorithms by Cormen
+Cracking the Coding Interview by Gayle Laakmann McDowell
+Artificial Intelligence: A Modern Approach by Stuart Russell
+Computer Networking by James F. Kurose
+Operating System Concepts by Abraham Silberschatz
+Database System Concepts by Abraham Silberschatz
+Computer Organization and Design by David A. Patterson
+Computer Architecture by John L. Hennessy
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+6
+Enter Book Title: Java Programming
+Book borrowed successfully.
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+5
+Java Programming (Due Date: 2025-03-30)
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+4
+Effective Java by Joshua Bloch
+Clean Code by Robert C. Martin
+Head First Java by Kathy Sierra
+The Pragmatic Programmer by Andrew Hunt
+Design Patterns by Erich Gamma
+Refactoring by Martin Fowler
+Introduction to Algorithms by Cormen
+Cracking the Coding Interview by Gayle Laakmann McDowell
+Artificial Intelligence: A Modern Approach by Stuart Russell
+Computer Networking by James F. Kurose
+Operating System Concepts by Abraham Silberschatz
+Database System Concepts by Abraham Silberschatz
+Computer Organization and Design by David A. Patterson
+Computer Architecture by John L. Hennessy
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+6
+Enter Book Title: qwe
+Book is not available.
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+4
+Effective Java by Joshua Bloch
+Clean Code by Robert C. Martin
+Head First Java by Kathy Sierra
+The Pragmatic Programmer by Andrew Hunt
+Design Patterns by Erich Gamma
+Refactoring by Martin Fowler
+Introduction to Algorithms by Cormen
+Cracking the Coding Interview by Gayle Laakmann McDowell
+Artificial Intelligence: A Modern Approach by Stuart Russell
+Computer Networking by James F. Kurose
+Operating System Concepts by Abraham Silberschatz
+Database System Concepts by Abraham Silberschatz
+Computer Organization and Design by David A. Patterson
+Computer Architecture by John L. Hennessy
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+6
+Enter Book Title: Computer Architecture
+Book borrowed successfully.
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+5
+Java Programming (Due Date: 2025-03-30)
+Computer Architecture (Due Date: 2025-03-30)
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+4
+Effective Java by Joshua Bloch
+Clean Code by Robert C. Martin
+Head First Java by Kathy Sierra
+The Pragmatic Programmer by Andrew Hunt
+Design Patterns by Erich Gamma
+Refactoring by Martin Fowler
+Introduction to Algorithms by Cormen
+Cracking the Coding Interview by Gayle Laakmann McDowell
+Artificial Intelligence: A Modern Approach by Stuart Russell
+Computer Networking by James F. Kurose
+Operating System Concepts by Abraham Silberschatz
+Database System Concepts by Abraham Silberschatz
+Computer Organization and Design by David A. Patterson
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+6
+Enter Book Title: Cracking the Coding Interview
+Book borrowed successfully.
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+6
+Enter Book Title: Database System Concepts
+You cannot borrow more than 3 books.
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+5
+Java Programming (Due Date: 2025-03-30)
+Computer Architecture (Due Date: 2025-03-30)
+Cracking the Coding Interview (Due Date: 2025-03-30)
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+7
+Enter Book Title: Java Programming
+Book returned successfully.
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+4
+Java Programming by Herbert Schildt
+Effective Java by Joshua Bloch
+Clean Code by Robert C. Martin
+Head First Java by Kathy Sierra
+The Pragmatic Programmer by Andrew Hunt
+Design Patterns by Erich Gamma
+Refactoring by Martin Fowler
+Introduction to Algorithms by Cormen
+Artificial Intelligence: A Modern Approach by Stuart Russell
+Computer Networking by James F. Kurose
+Operating System Concepts by Abraham Silberschatz
+Database System Concepts by Abraham Silberschatz
+Computer Organization and Design by David A. Patterson
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+5
+Computer Architecture (Due Date: 2025-03-30)
+Cracking the Coding Interview (Due Date: 2025-03-30)
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+8
+Books due in the next 7 days:
+4. View Available Books
+5. View Borrowed Books
+6. Borrow Book
+7. Return Book
+8. View Upcoming Books
+9. Logout
+9
+1. Sign Up
+2. Login
+3. Exit
+3
